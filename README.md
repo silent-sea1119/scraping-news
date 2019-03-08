@@ -1,0 +1,1 @@
+use scrapy of python to spide some news from different news sites
